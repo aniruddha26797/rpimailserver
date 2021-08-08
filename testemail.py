@@ -26,4 +26,3 @@ server.login(email_user,email_password)
 
 server.sendmail(email_user,email_send,text)
 server.quit()
-We want information… information… information.........
